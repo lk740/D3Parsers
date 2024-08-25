@@ -14,6 +14,12 @@ To download the repo do :
 git clone https://github.com/lk740/D3Parsers.git
 ```
 
+Requirements :
+
+```bash
+pip3 install protobuf
+```
+
 
 ### Scapy dissector
 
